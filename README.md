@@ -11,6 +11,7 @@ A cinematic engineering portfolio documenting how I move from technical constrai
 - Finite-element analysis software platform
 - Siemens NX-to-MATLAB CAD automation and optimization pipeline
 - A high-level overview of my work with [REEF](https://reef.bio)
+- A MATLAB laboratory covering epidemic network simulation, EMG processing, Simulink physiology, genetic-algorithm protein folding, image segmentation, and parameter estimation
 
 The project pages emphasize the problem, requirements, engineering decisions, verification, results, and lessons learned. Private and organization-sensitive work is represented through sanitized summaries and generalized architecture only.
 
